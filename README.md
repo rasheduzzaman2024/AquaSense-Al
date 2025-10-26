@@ -22,7 +22,7 @@ AquaSense AI is an AI + IoT-based system designed to monitor water quality and p
 
 
 
-🧭Future Improvements
+## 🧭Future Improvements
 
 Integrate live IoT sensor data
 
@@ -34,10 +34,12 @@ Create dashboard with real-time visualization
 
 ---
 
-Developer
+## Developer
 
 Md. Rasheduzzaman
+
 AI Developer & Innovator
+
 Email: rasheduzzaman.7rsd@gmail.com
 
 
